@@ -1,6 +1,6 @@
 # Drag and Drop Task Tracker
 
-This application was built as a supplement to my blog post about JavaScript drag and drop functionality. You can find the blog [here](LINK). The purpose of the blog (and this application) is to demonstrate a drag and drop feature in JavaScript that interacts with a backend API.
+This application was built as a supplement to my blog post about JavaScript drag and drop functionality. You can find the blog [here](https://medium.com/@mrwerner392/javascript-drag-and-drop-with-backend-interactivity-90f5ed68e576?source=friends_link&sk=28d9651bf54e87432f397fa18361dc32). The purpose of the blog (and this application) is to demonstrate a drag and drop feature in JavaScript that interacts with a backend API.
 
 ## Installation
 
