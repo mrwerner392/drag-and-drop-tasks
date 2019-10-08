@@ -60,7 +60,6 @@ function addDropzoneEventListeners(dropzone) {
   }, false);
 
   dropzone.addEventListener('dragleave', evt => {
-    evt.preventDefault();
     evt.currentTarget.classList.remove('over');
   }, false);
 
