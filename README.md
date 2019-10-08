@@ -18,6 +18,8 @@ Lastly, navigate to the "frontend" folder and open the index.html file:
 
 Once you have the application open in your browser, you can drag/drop the tasks back and forth between the task containers. On a page refresh, you should see that the tasks stay wherever you dropped them (though not necessarily in the same order).
 
+![GIF showing app functionality](frontend/sample-gif.gif)
+
 ## Technologies
 
 1. JavaScript
